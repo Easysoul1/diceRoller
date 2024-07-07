@@ -1,0 +1,2 @@
+let theNumber = prompt("Enter a number");
+console.log("Your number is the square root of "+ theNumber * theNumber );
